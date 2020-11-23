@@ -1,0 +1,14 @@
+﻿  Qsort_all.c
+d:\github\c\qsort_all\qsort_all\qsort_all.c(38): warning C4090: “函数”: 不同的“const”限定符
+d:\github\c\qsort_all\qsort_all\qsort_all.c(38): warning C4028: 形参 1 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(38): warning C4028: 形参 2 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(45): warning C4090: “函数”: 不同的“const”限定符
+d:\github\c\qsort_all\qsort_all\qsort_all.c(45): warning C4028: 形参 1 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(45): warning C4028: 形参 2 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(52): warning C4090: “函数”: 不同的“const”限定符
+d:\github\c\qsort_all\qsort_all\qsort_all.c(52): warning C4028: 形参 1 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(52): warning C4028: 形参 2 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(59): warning C4090: “函数”: 不同的“const”限定符
+d:\github\c\qsort_all\qsort_all\qsort_all.c(59): warning C4028: 形参 1 与声明不同
+d:\github\c\qsort_all\qsort_all\qsort_all.c(59): warning C4028: 形参 2 与声明不同
+  Qsort_all.vcxproj -> D:\github\c\Qsort_all\Debug\Qsort_all.exe
