@@ -1,0 +1,4 @@
+﻿  strstr.c
+d:\github\c\strstr.c\strstr.c\strstr.c(30): warning C4090: “return”: 不同的“const”限定符
+d:\github\c\strstr.c\strstr.c\strstr.c(43): warning C4013: “system”未定义；假设外部返回 int
+  strstr.c.vcxproj -> D:\github\c\strstr.c\Debug\strstr.c.exe
