@@ -1,0 +1,4 @@
+﻿  menmove.c
+d:\github\c\memmove\memmove\menmove.c(26): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+d:\github\c\memmove\memmove\menmove.c(27): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+  memmove.vcxproj -> D:\github\c\memmove\Debug\memmove.exe
